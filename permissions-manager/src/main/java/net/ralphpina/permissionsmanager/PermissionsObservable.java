@@ -3,7 +3,7 @@ package net.ralphpina.permissionsmanager;
 import rx.Observable;
 import rx.Subscriber;
 
-class PermissionsObservable extends Observable<PermissionsResult> {
+public class PermissionsObservable extends Observable<PermissionsResult> {
     /**
      * Creates an Observable with a Function to execute when it is subscribed to.
      * <p/>
