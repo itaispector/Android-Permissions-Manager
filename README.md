@@ -1,4 +1,4 @@
-# Android Permissions Manager
+# Android Permissions Manager 30/10
 Easily manage Android Marshmallow and up runtime permissions. This library uses RXJava to skip all the painful parts of the `Activity`/`Fragment` lifecycle management.
 
 The RxJava architecture was first taken from work originally done by [Fai Al Qadi](https://github.com/FaiFai21).
